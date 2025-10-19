@@ -1,0 +1,47 @@
+
+body{
+  background-color: hsl(210, 25%, 92%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main_container{
+  width: 340px;
+  height: 420px;
+  overflow: hidden;
+  background-color: hsl(245, 61%, 58%);
+  padding: 18px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+button{
+  color: rgb(28, 5, 5);
+  background-color: hsl(0, 1%, 70%);
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin: 7px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.display_box{
+  height: 65px;
+  overflow: hidden;
+  background-color: hsl(210, 25%, 92%);
+  border-radius: 8px;
+  margin-bottom: 15px;
+  font-size: 40px;
+  text-align: right;
+  padding: 10px;
+  font-weight: bold;
+  color: rgb(28, 5, 5);
+}
+
+.operators, .equals{
+  background-color: rgb(15, 233, 185);
+  color: rgb(0, 0, 0);
+
+}

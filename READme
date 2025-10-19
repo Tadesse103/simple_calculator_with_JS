@@ -1,0 +1,49 @@
+## Simple Calculator
+this is a basic web-based calculator built with HTML, CSS, and JavaScript. It performs addition, subtraction, multiplication, and division with a simple user interface. aims to give clearity and simple logic on js and pushing  to other daynamic web based project.
+
+## Features
+Input digits (0-9) and operators (+, -, ×, ÷) via buttons.
+
+* Display shows current input and results.
+
+* Equals button computes the result.
+
+* Clear button resets the calculator.
+
+* Error handling for invalid inputs (e.g., division by zero, missing numbers).
+
+
+## Usage
+* Click digit buttons to enter numbers.
+
+* Click operator buttons (+, -, ×, ÷) to select an operation.
+
+* Click "=" to calculate the result.
+
+* Click "C" to clear the display and reset.
+
+Files
+calculator.html: Structure of the calculator.
+
+calculator.css: Styling for the UI.
+
+calculator.js: JavaScript logic for calculations and event handling.
+
+## Basic Requirements
+* A modern web browser (e.g., Chrome, Firefox).
+
+* Basic knowledge of HTML, CSS, and JavaScript to modify or extend.
+
+## Limitations
+* Supports basic arithmetic only.
+
+* No decimal point or advanced operations.
+
+* Error messages display for invalid inputs (e.g., "Need 2nd Num", "Cannot divide 0").
+
+## Future Improvements
+* Add decimal point support.
+
+* Implement backspace functionality.
+
+* Enhance UI with responsive design.
